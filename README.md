@@ -46,6 +46,4 @@ Explorer/
 
 You can deploy this project to platforms like Vercel or Netlify for a live demo.
  # screenshot 
-
- ![App Screenshot]
- (public/scerrnshort.png)
+![](public/Screenshot.png)
