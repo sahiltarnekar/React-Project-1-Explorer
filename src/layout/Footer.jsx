@@ -6,7 +6,7 @@ function Footer() {
       <div className="container">
         <div className="d-flex flex-column flex-md-row justify-content-between align-items-center">
           <div className="mb-2 mb-md-0">
-            <span className="fw-bold">My Product Store</span> &copy; {new Date().getFullYear()}
+            <span className="fw-bold">My Product Store &copy; 2025 </span> 
           </div>
           <div>
             <a href="https://github.com/" target="_blank"
