@@ -1,16 +1,51 @@
-# React + Vite
+# Step of use Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Getting Started
 
-Currently, two official plugins are available:
+1. **Install dependencies**
+	```bash
+	npm install
+	```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. **Start the development server**
+	```bash
+	npm run dev
+	```
 
-## React Compiler
+3. **Open in browser**
+	Navigate to [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal).
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Folder Structure
 
-## Expanding the ESLint configuration
+```
+Explorer/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── assets/
+│   ├── layout/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── index.html
+├── package.json
+├── vite.config.js
+├── eslint.config.js
+└── README.md
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features & What I Learned
+
+- React component structure & props
+- Responsive UI with Bootstrap
+- Asset management for images
+- Clean code and modular design
+
+## Deployment
+
+You can deploy this project to platforms like Vercel or Netlify for a live demo.
+ # screenshot 
+
+ ![App Screenshot]
+ (public/scerrnshort.png)
