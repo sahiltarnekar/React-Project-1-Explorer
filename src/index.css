@@ -1,0 +1,38 @@
+body {
+	background: #181a20;
+	color: #e2e2e2;
+	min-height: 100vh;
+}
+
+.card {
+	background: linear-gradient(135deg, #23243a 70%, #2c2f4a 100%);
+	color: #e2e2e2;
+}
+
+.card .card-title {
+	color: #ffb347;
+}
+
+.card .card-text {
+	color: #b0b0b0;
+}
+
+.card .badge {
+	background: #ffb347;
+	color: #23243a;
+}
+
+header {
+	background: linear-gradient(90deg, #23243a 60%, #ffb347 100%) !important;
+	color: #fff !important;
+}
+
+footer {
+	background: linear-gradient(90deg, #23243a 60%, #ffb347 100%) !important;
+	color: #fff !important;
+}
+
+.a{
+    text-decoration: none;
+    
+}
