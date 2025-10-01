@@ -22,13 +22,9 @@ body {
 	color: #23243a;
 }
 
-header {
-	background: linear-gradient(90deg, #23243a 60%, #ffb347 100%) !important;
+header, footer {
+	background: linear-gradient(90deg, #23243a 60%, #1ea8ac 100%) !important;
 	color: #fff !important;
 }
 
-footer {
-	background: linear-gradient(90deg, #23243a 60%, #ffb347 100%) !important;
-	color: #fff !important;
-}
-
+	
